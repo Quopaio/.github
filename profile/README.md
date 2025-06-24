@@ -55,10 +55,9 @@ We’re a community of remote builders. You can:
 
 ## 📫 Contact
 
-Have a project, question, or proposal? Reach us at:  
-**support@quopa.io**
+Have a project, question, or proposal? 
 
-Or connect on [Twitter @quopa_io](https://twitter.com/quopa_io)
+Or connect on [X @quopaio](https://tx.com/quopa_io)
 
 ---
 
