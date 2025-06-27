@@ -1,7 +1,7 @@
 # 👋 Welcome to Quopa Consulting
 
-**We build open-source tools and solutions at the intersection of cybersecurity, full-stack development, and machine learning.**  
-Our work is designed for **remote teams**, **startups**, and **data-driven companies** operating in an increasingly decentralized world.
+**We build open-source tools and solutions -- blending cybersecurity, full-stack development, and machine learning.**  
+Our services are tailored for **remote teams**, **startups**, and **data-driven companies** operating in an increasingly decentralized world.
 
 ---
 
